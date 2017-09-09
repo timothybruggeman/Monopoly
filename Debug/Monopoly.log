@@ -1,0 +1,10 @@
+﻿  Source1.cpp
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(384): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(385): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(389): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(390): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(682): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+\\cs1\home\pmacdonald20\cs171-2\cs171_final_project\code\monopoly\monopoly\source1.cpp(822): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Monopoly.vcxproj -> \\cs1\home\pmacdonald20\CS171-2\CS171_FINAL_PROJECT\code\Monopoly\Debug\Monopoly.exe
+  Monopoly.vcxproj -> \\cs1\home\pmacdonald20\CS171-2\CS171_FINAL_PROJECT\code\Monopoly\Debug\Monopoly.pdb (Full PDB)
